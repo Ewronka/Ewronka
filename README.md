@@ -8,4 +8,4 @@
 <br />
 <br />
 <br />
-<br /><br /> ${\textsf{\color{#fc5e86} 　　　　bla bla bla blah... bla bla bla blah.....bla bla }}$ </sup>
+<br /><br /> ${\textsf{\color{#fc5e86} 　　　　Jumpah who !!!!!!!!!!!!!! }}$ </sup>
